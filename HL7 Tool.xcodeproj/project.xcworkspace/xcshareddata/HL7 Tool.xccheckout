@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9B48A26F-1596-41A0-989C-30C47EABAD79</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HL7 Tool</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>16ACC789C9C78675F30488CD0BD2F6CD58EB0F04</key>
+		<string>http://github.com/mhmiles/HL7-Tool.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HL7 Tool.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>16ACC789C9C78675F30488CD0BD2F6CD58EB0F04</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://github.com/mhmiles/HL7-Tool.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>16ACC789C9C78675F30488CD0BD2F6CD58EB0F04</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>16ACC789C9C78675F30488CD0BD2F6CD58EB0F04</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HL7%20Tool</string>
+		</dict>
+	</array>
+</dict>
+</plist>
